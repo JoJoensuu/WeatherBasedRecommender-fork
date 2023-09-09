@@ -1,4 +1,5 @@
 
+# Forked project for FULLSTACK CICD course
 
 ![ezgif-4-af3762fc40](https://github.com/HelsinkiUniCollab/WeatherBasedRecommender/assets/101641412/fd68b750-12f0-4746-8067-dc073afa5ffe)
 
